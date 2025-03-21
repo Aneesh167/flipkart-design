@@ -1,4 +1,4 @@
-# Flipkart-Design
-A basic clone of Flipkart using HTML and CSS.
+# Amazon-Design
+A basic clone of Amazon using HTML and CSS.
 <br>
 Author - Aneesh 
